@@ -1,2 +1,5 @@
-Look as of 24.09.2026
+Wygląd na 29.09.2026
+<img width="1358" height="864" alt="image" src="https://github.com/user-attachments/assets/87ecae38-7a75-48d3-85df-263d0efa19cf" />
+
+Wygląd na 24.09.2026
 <img width="1198" height="847" alt="image" src="https://github.com/user-attachments/assets/41d41fd5-97b4-4566-8a2d-38bdee7ebf86" />
